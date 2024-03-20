@@ -1,5 +1,7 @@
 # AO Embedder Prototype dApp
 
+Available at: https://vw6ngollaul3yg3dxysjr27kma6nlfwmquyy2bgtprkhpu2qkngq.arweave.net/rbzTOWsFF7wbY74kmOvqYDzVlsyFMY0E03xUd9NQU00/
+
 ## Overview
 
 The AO Embedder Prototype is a web-based application designed to demonstrate the embedding process for a predefined set of words on the permaweb, using Arweave technology through ArConnect integration. This prototype aims to showcase the potential of creating an embedder on AO that can handle extensive data sets with multiple concurrent processes. Currently, it operates with a limited set of words, serving as a foundational step towards achieving scalable data handling capabilities.
