@@ -1,6 +1,6 @@
 # AO Embedder Prototype dApp
 
-Available at: https://vw6ngollaul3yg3dxysjr27kma6nlfwmquyy2bgtprkhpu2qkngq.arweave.net/rbzTOWsFF7wbY74kmOvqYDzVlsyFMY0E03xUd9NQU00/
+Available at: https://arweave.net/rbzTOWsFF7wbY74kmOvqYDzVlsyFMY0E03xUd9NQU00
 
 ## Overview
 
